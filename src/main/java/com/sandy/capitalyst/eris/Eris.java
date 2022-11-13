@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication ;
 import org.springframework.context.ApplicationContext ;
 import org.springframework.context.ApplicationContextAware ;
 
-import com.sandy.capitalyst.eris.core.ErisConfig ;
+import com.sandy.capitalyst.eris.core.config.ErisConfig ;
 import com.sandy.common.bus.EventBus ;
 
 @SpringBootApplication
